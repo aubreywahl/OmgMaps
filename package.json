@@ -1,6 +1,6 @@
 {
   "name": "OmgMaps",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A map view for the Restocker/Driving React Native Apps! ",
   "main": "index.js",
   "repository": "https://github.com/aubreywahl/OmgMaps.git",
