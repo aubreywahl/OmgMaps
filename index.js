@@ -6,7 +6,7 @@ class Test extends Component {
     return (
       <View style={{flex: 1}}>
         <Text>
-          Hey There
+          Hey there.
         </Text>
       </View>
     )
